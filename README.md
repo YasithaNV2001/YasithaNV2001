@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Yasitha Priyashan!</h1>
 <p align="center">
-  💻 AI | Data Engineering | ML | Cloud  
+  💻 AI | Data Engineering | ML | Cloud | Power BI  
 </p>
 
 <p align="center">
@@ -13,18 +13,20 @@
 
 ### 🌟 About Me
 
-I’m **Yasitha**, a tech enthusiast with a growing skill set in **data engineering, machine learning, cloud computing, and data science**. I enjoy building practical, real-world solutions — from designing scalable data pipelines to experimenting with small language model fine-tuning.
+I’m **Yasitha**, a tech enthusiast with a growing skill set in **data engineering, machine learning, Power BI, cloud computing**, and **AI model fine-tuning**. I enjoy building practical, real-world solutions — from scalable pipelines to lightweight AI-powered apps.
 
-Most of my projects are hands-on, involving cloud platforms like **Azure**, frameworks like **PyTorch & Hugging Face**, and tools for data integration, transformation, and analysis. I aim to continuously improve my knowledge in both backend data infrastructure and applied machine learning.
+My projects often integrate **Azure**, **PyTorch**, **Power BI**, and **Streamlit** to solve hands-on problems in analytics and machine learning.
 
 ---
 
 ### ⚙️ Focus Areas
 
-- ⛓️ Designing and automating data pipelines using Azure (ADF, Data Lake, Synapse, Databricks)
-- 🧠 Training and fine-tuning small language models using PEFT (LoRA, DPO)
-- 📊 Analyzing structured data for insights using Python, SQL, and visualization tools
-- 📁 Working with real-world datasets to explore analytics and MLOps pipelines
+- ⛓️ Building and automating **data pipelines** on Azure (ADF, ADLS Gen2, Synapse, Databricks)  
+- 🧠 Training and fine-tuning **Small Language Models** using PEFT (LoRA, DPO)  
+- 📊 Data storytelling with **Power BI** and DAX  
+- ⚡ Real-time analytics with **Azure Event Hubs + Stream Analytics + Power BI**  
+- 🧪 Applied ML & NLP with Python, Scikit-learn, Transformers  
+- ☁️ Cloud-native app deployments using Azure App Service
 
 ---
 
@@ -39,14 +41,14 @@ Most of my projects are hands-on, involving cloud platforms like **Azure**, fram
 **Machine Learning / AI:**  
 `PyTorch` `Transformers` `LoRA` `DPO` `Hugging Face` `Scikit-learn` `Pandas`
 
-**Data Analysis / Visualization:**  
-`Jupyter` `PowerBI` `Seaborn` `Plotly` `Excel`
+**Analytics / Visualization:**  
+`Power BI` `Seaborn` `Matplotlib` `Excel` `Jupyter`
 
-**Web / APIs / Backend:**  
-`React` `Node.js` `Express` `Firebase` `REST APIs`
+**App & Web Tools:**  
+`Streamlit` `React` `Node.js` `Express` `Firebase` `REST APIs`
 
 **DevOps & Tools:**  
-`Git` `GitHub Actions` `Docker` `VS Code` `Postman`
+`Git` `GitHub Actions` `Docker` `Postman` `VS Code`
 
 ---
 
@@ -54,10 +56,11 @@ Most of my projects are hands-on, involving cloud platforms like **Azure**, fram
 
 | 💡 Project | Description | Tech Stack | Link |
 |-----------|-------------|------------|------|
-| 🧠 SLM Fine-Tuning | Fine-tune small language models using LoRA & Hugging Face | PyTorch, Transformers, Datasets, LoRA | [GitHub Repo](https://github.com/YasithaNV2001/slm-finetune-lora) |
-| 🏅 Olympic Data Pipeline | End-to-end Azure data project: ingest, store, transform, analyze | Azure ADF, Databricks, Synapse, ADLS Gen2 | [GitHub Repo](https://github.com/YasithaNV2001/olympic-azure-data-engineering-project) |
-| 📊 Wine Quality Analysis | Exploratory analysis & insights from wine dataset | Python, Pandas, Seaborn, Matplotlib | [GitHub Repo](https://github.com/YasithaNV2001/Wine_Data_Dashbord) |
-
+| 🧠 SLM Fine-Tuning | Fine-tuned small language models using LoRA, DPO & Hugging Face | PyTorch, Transformers, PEFT | [GitHub Repo](https://github.com/YasithaNV2001/slm-finetune-lora) |
+| 📊 Power BI Sales Dashboard | Full BI project with Power Query, DAX, and RLS; published to Power BI Service | Power BI, DAX, Excel | [GitHub Repo](https://github.com/YasithaNV2001/Retail-Sales-PowerBI-Dashboard) |
+| 🧪 AI Grammar Checker App | Streamlit web app using pre-trained NLP model; deployed on Azure | Python, Streamlit, Azure App Service | [GitHub Repo](https://github.com/YasithaNV2001/AI-Grammar-Checker-App) |
+| 📡 Real-Time Streaming Analytics | Azure-based pipeline with real-time Power BI dashboard | Azure Event Hubs, Stream Analytics, ADLS, Power BI | _Coming Soon_ |
+| 🏅 Olympic Data Pipeline | End-to-end data project: ingest, transform, analyze with Azure | ADF, Databricks, Synapse, ADLS | [GitHub Repo](https://github.com/YasithaNV2001/olympic-azure-data-engineering-project) |
 
 ---
 
@@ -73,18 +76,20 @@ Most of my projects are hands-on, involving cloud platforms like **Azure**, fram
 
 ### 🏆 Highlights
 
-- ✅ Built a full Azure-based data analytics pipeline (ADF → Databricks → Synapse)
-- 🧪 Trained SLMs with LoRA using Hugging Face & PEFT
-- 📚 Microsoft Certified: Azure Fundamentals (AZ-900)
-- 🎓 Self-taught through project-based learning and open-source tools
+- ✅ Built end-to-end Azure-based analytics & real-time streaming projects  
+- 🧠 Trained SLMs using LoRA & DPO on Hugging Face  
+- 📚 Microsoft Certified: Azure Fundamentals (AZ-900)  
+- 📊 Developed interactive Power BI dashboards with DAX and RLS  
+- 💡 Created NLP-powered grammar checker app with full cloud deployment  
+- 🎓 Self-taught through open-source, guided learning, and university projects
 
 ---
 
 ### 🎥 Other Interests
 
-- 🎬 Creating educational & tech-focused video content
-- 🥁 Designing custom MIDI-based drumming hardware
-- ✨ Visual storytelling & UI/UX exploration
+- 🎬 Creating tech-focused walkthrough videos & portfolio showcases  
+- 🥁 MIDI-based virtual drum kits using sensors and Arduino  
+- 📱 UI/UX design for simple, clean app interfaces
 
 ---
 
@@ -100,13 +105,3 @@ Most of my projects are hands-on, involving cloud platforms like **Azure**, fram
 </p>
 
 ---
-
-### 💬 Quote of the Day
-
-> “Code, data, and curiosity — the modern tools for understanding the world.”
-
----
-
-<p align="center">
-  ⚡ Let’s connect, collaborate, and create impact with data & AI!
-</p>
