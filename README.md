@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://raw.githubusercontent.com/YasithaNV2001/dev8z-Ai/main/public/cover.png" width="100%" alt="DEV8Z AI Banner" />
+<img src="./assets/cover.png" width="100%" alt="DEV8Z AI Banner" />
 
 <br/><br/>
 
