@@ -3,11 +3,6 @@
 <!-- HEADER BANNER -->
 <img src="https://raw.githubusercontent.com/YasithaNV2001/dev8z-Ai/main/public/cover.png" width="100%" alt="DEV8Z AI Banner" />
 
-<br/>
-
-<!-- LOGO -->
-<img src="https://raw.githubusercontent.com/YasithaNV2001/dev8z-Ai/main/public/logo.png" width="120" alt="DEV8Z AI Logo" />
-
 <br/><br/>
 
 <!-- ANIMATED TYPING -->
