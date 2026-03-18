@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Yasitha+Priyashan;Founder+%26+CEO+of+DEV8Z+AI;Building+the+Future+of+Web+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Yasitha+Priyashan;Founder+%26+CEO+of+DEV8Z+AI;Building+the+Future+of+Web+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 ```yaml
 name: Yasitha Priyashan
-role: Founder & CEO
+role: "Founder & CEO"
 company: DEV8Z AI
 tagline: "Defining Next-Gen Development"
 location: Sri Lanka
