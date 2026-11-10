@@ -2,11 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=140&section=header&text=Yasitha%20Priyashan&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%" alt="Yasitha Priyashan" />
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Software+Engineer+%7C+Full-Stack+%2B+Machine+Learning;MSc+Data+Science+%26+AI+%40+University+of+Moratuwa;Open+to+SE%2C+AI%2FML+and+data+internships" alt="Typing SVG" />
-
-<br/>
-
 <a href="https://www.linkedin.com/in/yasithapriyashan/"><img src="https://img.shields.io/badge/LinkedIn-Yasitha_Priyashan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:nvypriyashan@gmail.com"><img src="https://img.shields.io/badge/Email-nvypriyashan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
@@ -23,7 +18,7 @@
 name: Yasitha Priyashan
 location: Colombo, Sri Lanka (open to remote)
 education:
-  - "MSc Data Science & AI, University of Moratuwa (in progress, weekend classes)"
+  - "Master of Data Science & AI, University of Moratuwa (in progress)"
   - "BSc Physical Science: Mathematics, Computer Science, Statistics (USJP, 2022–2025)"
 focus:
   - "Full-stack software: React, Node.js, Next.js, PostgreSQL"
@@ -31,13 +26,13 @@ focus:
 looking_for: "Software engineering, AI/ML and data internships"
 ```
 
-I build software that works and machine learning models I can explain. I built and launched **FreelanceShield** on my own, and for my MSc capstone I built an NLP system tested on 128k real petitions.
+I build software that works and machine learning models I can explain. I built and launched **FreelanceShield** on my own, and for my Master's capstone I built an NLP system tested on 128k real petitions.
 
 <br/>
 
 ## 🚀 &nbsp;Featured Projects
 
-### 1. Petition Moderation Assistant &nbsp;<sub>MSc capstone, 2026 · [`repo`](https://github.com/YasithaNV2001/Petition-Moderation-Assistant-CS5998-Capstone-Project)</sub>
+### 1. Petition Moderation Assistant &nbsp;<sub>Master's capstone, 2026 · [`repo`](https://github.com/YasithaNV2001/Petition-Moderation-Assistant-CS5998-Capstone-Project)</sub>
 
 An NLP assistant on **128k UK Parliament petitions** that predicts moderation outcomes and finds duplicate petitions, with a leakage-safe, time-split evaluation.
 
@@ -64,7 +59,7 @@ A full-stack MERN app that generates YouTube thumbnails with AI through a switch
 
 A role-based system that controls the garment hand-off from cutting to sewing; rules are enforced in the UI, the API and PostgreSQL triggers.
 - **513 automated tests** in 37 files, all passing in CI
-- Built with Claude Code under my own rules (tests, lint and type checks before every commit), with a log of the bugs those checks caught in AI-generated code
+- Type checks, lint and tests run before every commit, with a log of the bugs the checks caught and how each was fixed
 
 `Next.js` · `TypeScript` · `PostgreSQL` · `Drizzle` · `Vitest`
 
@@ -131,7 +126,7 @@ A web app I built and launched on my own that helps freelancers in India with GS
 
 ## 🎯 &nbsp;What I'm Working On
 
-- **Now:** finishing my MSc capstone report and dashboard, and practising data structures & algorithms
+- **Now:** finishing my Master's capstone report and dashboard, and practising data structures & algorithms
 - **Next:** MLOps (FastAPI, Docker, MLflow, deploying models on Azure), then a RAG + agent app built on my capstone's retrieval work
 
 <br/>
